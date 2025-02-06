@@ -6,6 +6,9 @@
 * [Control Group v2, Kernel Documentation](https://www.kernel.org/doc/html/latest/admin-guide/cgroup-v2.html)
 * [Control Groups version 1, Kernel Documentation](https://www.kernel.org/doc/html/latest/admin-guide/cgroup-v1/index.html)
 * [McCune R., May 2023, Container security fundamentals part 4: Cgroups, Datadog Security Labs](https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-4/)
+* [Heinz M., Feb 2023, Cgroups - Deep Dive into Resource Management in Kubernetes, Martin Heinz Blog](https://martinheinz.dev/blog/91)
+* [Cluster Architecture / About cgroup v2, Kubernetes Documentation](https://kubernetes.io/docs/concepts/architecture/cgroups/)
+* [systemd cgroup driver, runc README](https://github.com/opencontainers/runc/blob/main/docs/systemd.md)
 
 ## Books
 
