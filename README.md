@@ -12,4 +12,5 @@
 
 ## Books
 
+* [Stoakes L., 2025, The Linux Memory Manager, No Starch Press](https://nostarch.com/linux-memory-manager)
 * [Hausenblas M., Apr 2022, Learning Modern Linux, O'Reilly](https://www.oreilly.com/library/view/learning-modern-linux/9781098108939/)
